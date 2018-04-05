@@ -1,0 +1,23 @@
+{
+  "name": "vue-component-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "poi src/index.js",
+    "build": "poi build src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sunecosuri/vue-component-boilerplate.git"
+  },
+  "author": "sunecosuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunecosuri/vue-component-boilerplate/issues"
+  },
+  "homepage": "https://github.com/sunecosuri/vue-component-boilerplate#readme",
+  "devDependencies": {
+    "poi": "^9.6.13"
+  }
+}
