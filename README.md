@@ -1,7 +1,7 @@
 # Vue Component Sandbox
 
 SandBox for Vue.js
-このリポジトリは @egoist による poi を使った vue.js の開発環境です。
+このリポジトリは @egoist による [poi](https://github.com/egoist/poi) を使った vue.js の開発環境です。
 
 ## 使い方
 ```
