@@ -1,5 +1,5 @@
 {
-  "name": "vue-component-boilerplate",
+  "name": "vue-component-sandbox",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/sunecosuri/vue-component-boilerplate.git"
+    "url": "git+ssh://git@github.com/sunecosuri/vue-component-sandbox.git"
   },
   "author": "sunecosuri",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sunecosuri/vue-component-boilerplate/issues"
+    "url": "https://github.com/sunecosuri/vue-component-sandbox/issues"
   },
-  "homepage": "https://github.com/sunecosuri/vue-component-boilerplate#readme",
+  "homepage": "https://github.com/sunecosuri/vue-component-sandbox#readme",
   "devDependencies": {
     "poi": "^9.6.13"
   }
